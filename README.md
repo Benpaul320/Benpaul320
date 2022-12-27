@@ -59,13 +59,25 @@ src="https://img.shields.io/github/followers/bensonarafat?logo=github&style=for-
 
 <div width="100%" align="center">
   <a href="https://github.com/bensonarafat/zoom-clone" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bensonarafat&repo=zoom-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=bensonarafat&repo=zoom-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+    
+<a href="https://github.com/bensonarafat/whatsapp_clone" align="left">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=bensonarafat&repo=whatsapp_clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div><br/><br/><br/>
+
+<div width="100%" align="center">
+<a href="https://github.com/bensonarafat/face_detection" align="right">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=bensonarafat&repo=face_detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a><br/>
+
+<a href="https://github.com/bensonarafat/openai-chat" align="left">
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=bensonarafat&repo=openai-chat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div><br/><br/><br/>
+
   
-    <a href="https://github.com/bensonarafat/openai-chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bensonarafat&repo=openai-chat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  
-  <a href="https://github.com/bensonarafat/whatsapp_clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bensonarafat&repo=whatsapp_clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  
- <a href="https://github.com/bensonarafat/face_detection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bensonarafat&repo=face_detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
