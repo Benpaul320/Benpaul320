@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-### My name is Benson Arafat
-=========================================
+## My name is Benson Arafat
+
 ### Full Stack Developer
 
-I am an open-minded and motivated Full stack Developer who seeks continual growth by consistently learning, unlearning, and relearning. I have over five (5) years of experience in Web and Mobile development and have worked on challenging and engaging projects that required me to work outside my knowledge set. Also, convert business/user requirements into maintainable and scalable code. Few of my technical expertise include fluency in Dart (framework: Flutter), React.js, VueJs, NodeJs and PHP, knowledge in continuous integration and deployment/delivery using GitLab CI, familiarity with cloud technologies like AWS, building REST API, Codemigic, GitHub actions unit testing using Flutter, and much more. I have been instrumental in the planning and development process of several applications I worked on either single-handedly or as part of a team. I am currently on a journey to become a creative front-end web and mobile developer. You can reach me via email at benpaul320@gmail.com.
+I am an open-minded and motivated Full stack Developer who seeks continual growth by consistently learning, unlearning, and relearning. I have over five (5) years of experience in Web and Mobile development and have worked on challenging and engaging projects that required me to work outside my knowledge set. Also, convert business/user requirements into maintainable and scalable code. Few of my technical expertise include fluency in Dart (framework: Flutter), React.js, VueJs, NodeJs and PHP, knowledge in continuous integration and deployment/delivery using GitLab CI, building REST API, Codemigic, GitHub actions unit testing using Flutter, and much more. I have been instrumental in the planning and development process of several applications I worked on either single-handedly or as part of a team. You can reach me via email at benpaul320@gmail.com.
 
 * 🌍  I'm based in Abuja
 * 🖥️  See my portfolio at [https://www.bensonarafat.com](https://bensonarafat.com/)
 * ✉️  You can contact me at [benpaul320@gmail.com](mailto:benpaul320@gmail.com)
 * 🚀  I'm currently working on [Geo Football App](https://github.com/bensonarafat/geo_football)
-<!-- * 🧠  I'm learning ReactJS -->
+* 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Interesting Fluttter and Web Projects
 * ⚡  I love Video Games
 
@@ -20,32 +20,15 @@ src="https://img.shields.io/github/followers/bensonarafat?logo=github&style=for-
 
 ### Skills
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,dart,express,firebase,flutter,html,js,jquery,laravel,mongodb,mysql,nextjs,nodejs,nuxtjs,php,postgres,react,redux,tailwind,vue,webpack" />
+  </a>
 </p>
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/bensonarafat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/realarafatben/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bensonarafat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bensonarafat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCaXyRy1djewxo-UKgBD3xWA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
