@@ -9,7 +9,7 @@ I am an open-minded and motivated Full stack Developer who seeks continual growt
 * 🌍  I'm based in Abuja
 * 🖥️  See my portfolio at [https://www.bensonarafat.com](https://bensonarafat.com/)
 * ✉️  You can contact me at [benpaul320@gmail.com](mailto:benpaul320@gmail.com)
-* 🚀  I'm currently working on [Geo Football App](https://github.com/bensonarafat/geo_football)
+* 🚀  I'm currently working on [ScoreSnap App](https://github.com/bensonarafat/scoresnap)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Interesting Fluttter and Web Projects
 * ⚡  I love Video Games
