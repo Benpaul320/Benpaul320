@@ -38,6 +38,12 @@ src="https://img.shields.io/github/followers/bensonarafat?logo=github&style=for-
 <a href="http://www.github.com/bensonarafat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bensonarafat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bensonarafat&show_icons=true&locale=en&layout=compact" alt="bensonarafat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bensonarafat&show_icons=true&locale=en" alt="bensonarafat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bensonarafat&" alt="bensonarafat" /></p>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/bensonarafat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
