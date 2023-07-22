@@ -15,9 +15,6 @@ I work as a **Software Engineer** at **[Codepym](https://www.codepym.com)**
 Connect
 -------
 
-[![Benson's Portfolio](https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge)](https://bensonarafat.com)
-[![Benson's Blog](https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge)](https://blog.bensonarafat.com)
-
 [![Benson's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bensonarafat)
 [![Benson's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@bensonarafat)
 [![Benson's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bensonarafat)
