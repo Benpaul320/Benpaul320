@@ -11,7 +11,7 @@ I am an open-minded and motivated Full-stack Developer who seeks continual growt
 * ✉️  You can contact me at [benpaul320@gmail.com](mailto:benpaul320@gmail.com)
 * 🚀  I'm currently working on [ScoreSnap App](https://github.com/bensonarafat/scoresnap)
 * 🧠  I'm learning AWS
-* 🤝  I'm open to collaborating on Interesting Fluttter and Web Projects
+* 🤝  I'm open to collaborating on Interesting Flutter and Web Projects
 * ⚡  I love Video Games
 
 <a href="https://www.github.com/bensonarafat" target="_blank" rel="noreferrer"><img
@@ -31,11 +31,12 @@ src="https://img.shields.io/github/followers/bensonarafat?logo=github&style=for-
 <p align="left"> <a href="https://www.github.com/bensonarafat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/realarafatben/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bensonarafat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bensonarafat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCaXyRy1djewxo-UKgBD3xWA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 
-<!-- <b>My GitHub Stats</b> -->
 
-<a href="http://www.github.com/bensonarafat"><img src="https://github-readme-stats.vercel.app/api?username=bensonarafat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ben's GitHub stats" /></a>
+<div align="center">
 
-<a href="http://www.github.com/bensonarafat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bensonarafat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![Benson's Trophies](https://github-profile-trophy.vercel.app/?username=bensonarafat&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)](https://bensonarafat.com)
+
+</div>
 
 
 ### Support Me
