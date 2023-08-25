@@ -35,7 +35,7 @@ Skills
 ------------
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,dart,express,firebase,flutter,html,js,jquery,laravel,mongodb,mysql,nodejs,nuxtjs,php,postgres,tailwind,vue,webpack,docker,redis" />
+    <img src="https://skillicons.dev/icons?i=git,css,dart,express,firebase,flutter,html,js,jquery,laravel,mongodb,mysql,nodejs,nuxtjs,php,postgres,tailwind,vue,webpack,docker,redis,kubernetes,netlify,postman,sass,sqlite,threejs,ts,vercel" />
   </a>
 </div>
 
