@@ -10,7 +10,7 @@ I work as a **Software Engineer** at **[Codepym](https://www.codepym.com)**
 * 🚀  I'm currently working on [ScoreSnap App](https://github.com/bensonarafat/scoresnap)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Interesting Flutter and Web Projects
-* ⚡  I love Video Games
+* ⚡  I love Adventures, Art, exemplary Music and Video Games
 
 Connect
 -------
