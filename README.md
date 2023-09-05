@@ -1,8 +1,4 @@
-### Hi there 👋
-
-#### I'm **Benson Arafat**, a Software Engineer from Nigeria.
-
-I work as a **Software Engineer** at **[Codepym](https://www.codepym.com)**
+<img src="https://github.com/bensonarafat/bensonarafat/blob/master/banner.jpg?raw=true"/>
 
 * 🌍  I'm based in Abuja
 * 🖥️  See my portfolio at [https://www.bensonarafat.com](https://bensonarafat.com/)
@@ -21,16 +17,6 @@ Connect
 
 ---
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=14" alt="Afaan's Top Languages" style="width: 500px;" />
-
----
-<div align="center">
-  
-  [![Benson's Trophies](https://github-profile-trophy.vercel.app/?username=bensonarafat&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)](https://bensonarafat.com)
-
-</div>
-
-
 Skills
 ------------
 <div align="center">
@@ -38,8 +24,3 @@ Skills
     <img src="https://skillicons.dev/icons?i=git,css,dart,express,firebase,flutter,html,js,jquery,laravel,mongodb,mysql,nodejs,nuxtjs,php,postgres,tailwind,vue,webpack,docker,redis,kubernetes,netlify,postman,sass,sqlite,threejs,ts,vercel" />
   </a>
 </div>
-
----
-### Support Me
-
-<a href="https://www.buymeacoffee.com/bensonarafat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
