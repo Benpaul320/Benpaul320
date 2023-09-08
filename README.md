@@ -10,6 +10,22 @@
 
 </div>
 
+
+<div align="center">
+
+  
+#### My stack
+
+---
+
+<a href="https://www.javascript.com">JavaScript</a> 
+|
+<a href="https://flutter.dev/">Flutter/Dart</a>
+|
+<a href="https://php.net/">PHP/Laravel</a>
+
+</div>
+
 <!--
 Skills
 ------------
